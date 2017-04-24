@@ -1,6 +1,6 @@
 $(function(){
 
-	alert("既然你都进来了，何不跟我联系一下呢");
+	alert("您好，很期待可以和你取得联系！");
 	var sm_items  = $(".sm_item");
 	var stu_contents = $(".stu_content");
 

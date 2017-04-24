@@ -233,7 +233,7 @@ a{
 #jinengBox div {
 	border-radius: 5px;
 	padding:5px 10px;
-	height: 28px;
+	height: 15px;
 }
 #jinengBox .num{
 	background-color: #57A957;
@@ -246,7 +246,7 @@ a{
 }
 #jinengBox .word{
 	border:1px dashed #1bbc9b;
-	width: 600px;
+	width: 640px;
 }
 
 /*===================show========================*/
